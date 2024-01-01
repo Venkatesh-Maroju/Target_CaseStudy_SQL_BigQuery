@@ -88,4 +88,4 @@ more in the coming years
 
 
 ## **Contributing**
-Feel free to contribute by suggesting improvements, additional analyses, or insights that could enhance the project's scope and depth.
+Feel free to contribute by suggesting improvements, additional analysis, or insights that could enhance the project's scope and depth.
